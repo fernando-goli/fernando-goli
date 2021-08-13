@@ -1,8 +1,7 @@
-### Hi! Eu sou o Fernando Gomes 👋
-
+## Hi! Eu sou o Fernando Gomes 👋
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/fernando-goli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-goli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-goli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -12,13 +11,11 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">
-
 </div>
   
   ##
   
-<div>
-  
+<div>,
   <a href="https://www.linkedin.com/in/fernando-gomes-92798a146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!--
