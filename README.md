@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi! Eu sou o Fernando Gomes 👋
 
+
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-goli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-goli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-plain.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">
+
+</div>
+  
+  ##
+  
+<div>
+  
+  <a href="https://www.linkedin.com/in/fernando-gomes-92798a146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 **fernando-goli/fernando-goli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github.com/Naereen/badges
+https://www.youtube.com/watch?v=TsaLQAetPLU
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/devicons/devicon
 -->
