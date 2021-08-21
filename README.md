@@ -11,7 +11,7 @@ Formado em Ciência da Computação, iniciando no desenvolvimento mobile com and
  
 <div>
   <a href="https://github.com/fernando-goli">
-  <img height="center" src="https://github-readme-stats.vercel.app/api?username=fernando-goli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="center" src="https://github-readme-stats.vercel.app/api?username=fernando-goli&show_icons=true&theme=dracula&count_private=true"/>
   <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-goli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
