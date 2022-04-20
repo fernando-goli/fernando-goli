@@ -1,6 +1,6 @@
 <h1> Hi! Eu sou o Fernando Gomes 👋</h1>
 
-Formado em Ciência da Computação, iniciando no desenvolvimento mobile com android nativo em kotlin.</br>
+Formado em Ciência da Computação, atuando com desenvolvimento mobile com android nativo em kotlin.</br>
 
 </br> 
 <div>
