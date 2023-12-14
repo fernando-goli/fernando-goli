@@ -1,6 +1,7 @@
 <h1> Hi! Eu sou o Fernando Gomes 👋</h1>
 
 Formado em Ciência da Computação, atuando com desenvolvimento mobile com android nativo em kotlin.</br>
+Atualemnte estudando flutter.
 
 </br> 
 <div>
